@@ -49,8 +49,9 @@ html {
 
 .navigation-bar {
     margin-bottom: 73px;
-    opacity: 0.89;
+    /* opacity: 0.89; */
     /* border: 2px solid red; */
+    background-color: red;
 }
 
 /* Input for city */
