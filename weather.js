@@ -7,7 +7,7 @@
 
 
 
-// Pre Loader of cloud and sun during the website is loading
+// Pre Loader of cloud and sun during the website is loading  
 window.onload = () => {
     document.getElementById('website').style.display = 'block'
     document.getElementById('pre_loader').style.display = 'none'
